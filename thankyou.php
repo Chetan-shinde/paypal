@@ -1,3 +1,3 @@
 <?php
-echo 'Thanks';
+echo 'Thanks for paypal payment';
 ?>
